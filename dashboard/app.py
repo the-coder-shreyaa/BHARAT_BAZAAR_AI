@@ -100,7 +100,7 @@ st.markdown("""
 # ─── Sidebar ─────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("### ⚙️ Configuration")
-    api_url = st.text_input("API Base URL", value="http://localhost:8000", help="FastAPI server URL")
+    api_url = st.text_input("API Base URL", value="https://bharat-bazaar-ai.onrender.com", help="FastAPI server URL")
     st.markdown("---")
     st.markdown("### 📋 Navigation")
     st.markdown("""
