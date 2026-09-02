@@ -5,6 +5,12 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green?logo=fastapi)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit)](https://streamlit.io)
+[![Tests](https://img.shields.io/badge/Tests-22%2F22%20Passed-brightgreen)](tests/)
+
+### 🚀 One-Click Deploy
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/the-coder-shreyaa/BHARAT_BAZAAR_AI)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=the-coder-shreyaa/BHARAT_BAZAAR_AI&branch=main&mainModule=dashboard/app.py)
 
 ---
 
